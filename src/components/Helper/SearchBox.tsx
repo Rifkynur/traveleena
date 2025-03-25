@@ -8,8 +8,10 @@ const SearchBox = () => {
       <div className="flex items-center space-x-6">
         <FaMap className="size-6 text-blue-500" />
         <div className="flex flex-col gap-1">
-          <p className="text-lg font-medium ">Location </p>
-          <input type="text" placeholder="where are you going?" className="outline-none border-none placeholder:text-gray-800 text-base" />
+          <div>
+            <p className="text-lg font-medium ">Location</p>
+            <p className="text-base font-normal">where are you going?</p>
+          </div>
         </div>
       </div>
       <div className="flex items-center space-x-6">

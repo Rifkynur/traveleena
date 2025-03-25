@@ -140,57 +140,57 @@ export const reviewData = [
   {
     id: 1,
     name: "John Doe",
-    review:
-      "The service exceeded my expectations. The team was professional, and I couldn't be happier with the results. Highly recommended to everyone!",
+    review: "The service exceeded my expectations. The team was professional, and I couldn't be happier with the results. Highly recommended to everyone!",
     image: "/images/u1.jpg",
+    job: "Web Developer",
   },
   {
     id: 2,
     name: "Jane Smith",
-    review:
-      "I am thoroughly impressed with the attention to detail and quality. They truly understand customer needs and deliver outstanding results. Wonderful experience!",
+    review: "I am thoroughly impressed with the attention to detail and quality. They truly understand customer needs and deliver outstanding results. Wonderful experience!",
     image: "/images/u2.jpg",
+    job: "UI/UX Designer",
   },
   {
     id: 3,
     name: "Michael Brown",
-    review:
-      "Exceptional quality and fantastic customer service! The project was delivered on time and exactly as I wanted. I will definitely use their services again.",
+    review: "Exceptional quality and fantastic customer service! The project was delivered on time and exactly as I wanted. I will definitely use their services again.",
     image: "/images/u3.jpg",
+    job: "Finance Accountant",
   },
   {
     id: 4,
     name: "Emily Davis",
-    review:
-      "Outstanding results! The team was efficient, and their professionalism was remarkable. Everything was done perfectly. I highly recommend their expertise to everyone.",
+    review: "Outstanding results! The team was efficient, and their professionalism was remarkable. Everything was done perfectly. I highly recommend their expertise to everyone.",
     image: "/images/u1.jpg",
+    job: "Dentist",
   },
   {
     id: 5,
     name: "Chris Wilson",
-    review:
-      "Amazing service! They exceeded all expectations and delivered a product that I am extremely happy with. The communication throughout the project was excellent.",
+    review: "Amazing service! They exceeded all expectations and delivered a product that I am extremely happy with. The communication throughout the project was excellent.",
     image: "/images/u2.jpg",
+    job: "Saller",
   },
   {
     id: 6,
     name: "Sarah Johnson",
-    review:
-      "Fantastic experience! They listened carefully to my requirements and delivered exactly what I needed. Their attention to detail is truly commendable.",
+    review: "Fantastic experience! They listened carefully to my requirements and delivered exactly what I needed. Their attention to detail is truly commendable.",
     image: "/images/u3.jpg",
+    job: "Contructor",
   },
   {
     id: 7,
     name: "David Lee",
-    review:
-      "Absolutely incredible service! The team was supportive and responsive, making sure everything was perfect. I will definitely recommend them to my friends.",
+    review: "Absolutely incredible service! The team was supportive and responsive, making sure everything was perfect. I will definitely recommend them to my friends.",
     image: "/images/u1.jpg",
+    job: "Professional Gammer",
   },
   {
     id: 8,
     name: "Sophia White",
-    review:
-      "Five-star service from start to finish! The dedication and skill of the team made all the difference. Truly an exceptional experience I won’t forget.",
+    review: "Five-star service from start to finish! The dedication and skill of the team made all the difference. Truly an exceptional experience I won’t forget.",
     image: "/images/u2.jpg",
+    job: "Indonesia Football Head Coach",
   },
 ];
