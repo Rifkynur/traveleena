@@ -1,7 +1,20 @@
 import React from "react";
+import Hero from "./Hero/Hero";
+import Destination from "./Destination/Destination";
+import Hotel from "./Hotel/Hotel";
+import WhyChoose from "./WhyChoose/WhyChoose";
+import Reviews from "./Reviews/Reviews";
 
 const Home = () => {
-  return <div>Home</div>;
+  return (
+    <div>
+      <Hero />
+      <Destination />
+      <Hotel />
+      <WhyChoose />
+      <Reviews />
+    </div>
+  );
 };
 
 export default Home;
