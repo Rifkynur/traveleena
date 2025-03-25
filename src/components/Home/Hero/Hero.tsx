@@ -1,3 +1,4 @@
+"use client";
 import SearchBox from "@/components/Helper/SearchBox";
 import React from "react";
 import Link from "next/link";
@@ -9,7 +10,7 @@ const Hero = () => {
       <video src="/images/hero1.mp4" autoPlay muted loop preload="metadata" className="w-full h-full object-cover" />
       <div className="absolute z-[100] w-full h-full top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]">
         <div className="flex justify-center items-center flex-col w-full h-full">
-          <div>
+          <div data-aos="fade-up">
             <h1 className="text-white text-center uppercase text-[25px] mb-4  md:text-[35px] lg:text-[45px] tracking-[0.7rem] font-bold">lets enjoy the nature</h1>
             <p className="md:text-base text-center text-lg  text-white font-normal [word-spacing:5px]">Get the best price on 2,000,000+ properties,worldwide </p>
           </div>
